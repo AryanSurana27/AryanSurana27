@@ -22,7 +22,7 @@ Aspiring Data Analyst with a strong foundation in Commerce and over two years of
 
 ## 💬 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/aryan-surana-12565b27b)
-- [Email](aryansurana27@gmail.com)
+- [Email](mailto:aryansurana27@gmail.com)
 
 ---
 
