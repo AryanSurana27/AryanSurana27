@@ -4,7 +4,8 @@
 Aspiring Data Analyst with a strong foundation in Commerce and over two years of business experience in sales and management. Recently completed courses in Power BI, Excel, and MySQL to enhance my Data Analysis skills. Passionate about leveraging data to drive strategic decision-making and deliver business insights. Eager to apply analytical techniques to solve real-world business challenges and contribute to data-driven growth. Always learning, exploring new tools, and ready to collaborate on data-centric projects!
 
 ## 📈 Key Projects
-**Project Name 1 #**: Excel Sales Analysis 
+**Project Name 1 #**: [Excel Sales Analysis](https://github.com/AryanSurana27/SALES-ANALYSIS) 
+**Project Name 2 #**: 
 
 ## 🛠 Technical Skills
 * Power BI:- Creating interactive Dashboards, Data Visualization, Using different types of Charts and Building Reports. Data modeling, Power Query, DAX (Data Analysis Expressions), and Connecting to various Data 
