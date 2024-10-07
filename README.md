@@ -5,7 +5,8 @@ Aspiring Data Analyst with a strong foundation in Commerce and over two years of
 
 ## 📈 Key Projects
 **Project Name 1 #**: [Excel Sales Analysis](https://github.com/AryanSurana27/SALES-ANALYSIS) 
-**Project Name 2 #**: 
+
+**Project Name 2 #**: [PWC-Virtal-Internship-Power Bi](https://github.com/AryanSurana27/PwC-Switzerland-Virtual-Internship-PowerBI) 
 
 ## 🛠 Technical Skills
 * Power BI:- Creating interactive Dashboards, Data Visualization, Using different types of Charts and Building Reports. Data modeling, Power Query, DAX (Data Analysis Expressions), and Connecting to various Data 
